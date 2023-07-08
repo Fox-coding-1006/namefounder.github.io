@@ -1,0 +1,12 @@
+*{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Arial;
+    color:cornflowerblue;
+}
+
+#countlabel{
+    text-align: center;
+    display: block;
+    font-size: 50px;
+}
